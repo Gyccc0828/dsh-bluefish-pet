@@ -1,8 +1,13 @@
-# NOTICE
+# NOTICE · 代码、素材与数据分开归属
 
-This package is a derivative distribution of [`PC2005-cloud/dsh-pet`](https://github.com/PC2005-cloud/dsh-pet).
+本项目是 PC2005-cloud/dsh-pet 的非官方定制分发版。代码许可证、角色美术／视频条款和历表数据条款分别适用，根目录的 MIT LICENSE 不代表全部资源均可商用。
 
-- Upstream code: MIT License; see [LICENSE](LICENSE).
-- Upstream animation, prompt, and source-video assets: open-source use is allowed, but commercial use is prohibited. Preserve this attribution and the upstream terms when redistributing the assets.
-- This derivative adds click-triggered balance refresh, proportional desktop scaling, a desktop-pet exit control, and the default blue-fish configuration.
-- The assets in `assets/webm/` are included for the desktop pet and remain subject to the upstream asset terms above.
+- 上游插件代码版权声明为 Copyright (c) 2026 PC2005-cloud，MIT 全文原样保留在 LICENSE。项目定制包括移动动作／方向、Claude 工作联动、铁盆动作、时节筛选和可移植打包。
+- 上游动画、提示词和源视频遵循其 README 声明：允许开源使用，禁止商用。原始项目链接和其素材条款继续保留。
+- CrossPet / lokicorvus 的角色素材采用 CC BY-NC-SA 4.0。按该项目记载，DeepSeek 原型「溟月」由上善无形设计，深蓝女仆鲸鱼娘解释来自 ZipZipPipe。二次分发和衍生作品须保留署名、非商业使用及相同方式共享条件。
+- 本版 Claude 羽毛笔写字／左右递文件由 CrossPet 完整人物图转制；基础卫衣和独立铁盆道具包含 AI 辅助生成／编辑。新增衍生画面与视频按 CC BY-NC-SA 4.0 提供，同时保留底层角色、原版动画和参考素材的适用权利。
+- 铁盆参考项目的 MIT 声明保留 MeteorNOX、Witherwithwinter 的原始署名；该参考许可不替代角色本身的来源声明。
+- 2020—2100 年离线历表数据署名香港特别行政区政府／香港天文台及 DATA.GOV.HK，保留相应数据条款。
+- 相关产品／品牌名称和商标归各自权利人。该项目不是任何相关公司的官方作品，也不代表原作者或数据提供方的背书。
+
+完整来源、具体文件、改动说明及再分发条件见 [ASSET_LICENSES.md](ASSET_LICENSES.md) 和 [third_party/](third_party/)。随包许可文件均已包含在 .tgz 中。字体、图标、表情包等其他随上游提供的资源保留各自已有权利，本项目不为其新增授权。
